@@ -5,3 +5,9 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 inglebard/retroarch-web
 eclipse-mosquitto
+linuxserver/jellyfin
+shtse8/photopea
+redis:alpine
+elestio/searxng
+frooodle/s-pdf
+1995chen/dnf:centos5-2.1.4
