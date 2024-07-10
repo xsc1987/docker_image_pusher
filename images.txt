@@ -10,4 +10,4 @@ shtse8/photopea
 redis:alpine
 elestio/searxng
 frooodle/s-pdf
-1995chen/dnf:centos5-2.1.4
+1995chen/dnf:centos7
