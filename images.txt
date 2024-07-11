@@ -11,3 +11,4 @@ redis:alpine
 elestio/searxng
 frooodle/s-pdf
 1995chen/dnf:centos7
+1995chen/dnf
